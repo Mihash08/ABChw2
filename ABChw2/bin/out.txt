@@ -1,0 +1,5 @@
+Shapes:
+Container contains 3 elements.
+1: It is a sphere: s = 10. Volume = 4188.79. Density = 2
+2: It is a sphere: s = 1. Volume = 4.18879. Density = 3
+3: It is a tetrahedron: a = 1. Volume = 0.117851. Density = 1
